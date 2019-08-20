@@ -144,7 +144,7 @@ h3 {
   margin-top:11px;
   margin-left:16px;
 }
-@media (max-width: 625px) {
+@media (min-width: 625px) {
 
   #title {
     display:none;
